@@ -8,13 +8,13 @@ and open the template in the editor.
     Author     : alanr
 */
 body{
-    background-image:url( "8536edfa-8d2d-4b69-a6bf-bd76c243c211.jpg");
+    background:#FF0000;
 	font-family: Calibri;
         
 }
 
 .EncabezadoDerecha{
-	border: 2px red;
+	border: 2px black;
 	text-align: center;
 	padding: 2px 50px;
 }
